@@ -9,8 +9,5 @@ This is an baseline app and configuration application
 
 For more information, see the "What it does" section of the authors' Github repository here: https://github.com/Jamf-Concepts/Setup-Manager/tree/main
 
-## Feature and Enhancement Ideas
-- Allow user re-assignment to:
-  * intake username as the input, with the "User Email" field renamed accordingly
-  * update the device record's username field accordingly -- leaving email address untouched (unless specified otherwise)
-- Make "Submit User Entry" and "install_extra_apps" action conditionally show only when using "Conditionally show the user entry for certain users" workflow
+## Stanford-specific documentation on our use of Jamf Setup Manager
+See this repository's wiki here: https://github.com/stanford-developers/jamf-zero-touch-jamf-setup-manager/wiki
