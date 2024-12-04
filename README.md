@@ -9,7 +9,7 @@ In short, Stanford University uses Jamf's Setup Manager app to prepare Mac's con
 * displays progress indicators and offers customization options like Stanford branding
 * expedites the Mac setup process by ensuring core applications are installed even before one logs in to Mac for the first time
 
-For more information, see the "[What it does](https://github.com/Jamf-Concepts/Setup-Manager/tree/main?tab=readme-ov-file#what-it-does)" section of the authors' Github repository here: https://github.com/Jamf-Concepts/Setup-Manager/tree/main
+For more information, see the "[What it does](https://github.com/Jamf-Concepts/Setup-Manager/tree/main?tab=readme-ov-file#what-it-does)" section of the authors' Github repository here: [Setup Manager Landing Page](https://github.com/Jamf-Concepts/Setup-Manager)
 
 ## Stanford-specific documentation on our use of Jamf Setup Manager
 See this repository's wiki here: https://github.com/stanford-developers/jamf-zero-touch-jamf-setup-manager/wiki
