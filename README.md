@@ -1,7 +1,7 @@
 ![Setup Manager Icon](https://github.com/Jamf-Concepts/Setup-Manager/blob/main/Images/SetupManager250.png)
 
 # Jamf Zero Touch - Jamf Setup Manager at Stanford University
-Stanford University's implementation of Setup Manager for baseline configuration during macOS device enrollment in Jamf.
+This details Stanford University's implementation of Setup Manager for baseline configuration during macOS device enrollment in Jamf.
 
 ## What does Jamf Setup Manager do?
 In short, Stanford University uses Jamf's Setup Manager app to prepare Mac's consistently and quickly with minimal to no IT interaction. This app...
